@@ -5,3 +5,6 @@
 
 ## motor driver関係
 - [MakerDrive](https://www.cytron.io/p-maker-drive-simplifying-h-bridge-motor-driver-for-beginner)向けケース
+
+# LICENSE
+Please see [LICENSE](https://github.com/henjin0/LEGO-Board-Enclosures/blob/main/LICENSE).
